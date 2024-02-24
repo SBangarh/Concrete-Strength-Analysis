@@ -16,4 +16,9 @@ I wanted to focus on "less" complex models than neural networks as I am still le
 
 
 ## Results
-TBD
+
+Inconclusive
+
+So, the components as a percentage of total mixture was not the greatest input. This could be because of the non-Gaussian like distribution or a bad metric. Perhaps I should I change the Target to a classifier problem. There is a likely chance that leaving the target unchanged also impacted this approach.
+
+The data in the kg in a M^3 mixture did "Better" but the models all overfit. I will have to keep tweaking the data and models.
