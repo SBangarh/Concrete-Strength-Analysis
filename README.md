@@ -23,5 +23,8 @@ Once I discovered a model that worked, I began trying to optimize the model for 
 
 So far, the "best" model is a Ridge Regression (alpha=0.01) with PCA. The model had a R2 value of 0.48 on training data and 0.51 on testing data which isn't great, but it showed better results than the ensemble methods. The best results were achieved with three principal components. 
 
+
+Tried Gradient Boost with no luck
+
 Still lots of work to do and adding to the model to increase fit.
 
