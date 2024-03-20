@@ -13,11 +13,9 @@ At first, I just focused on the raw data and composition of the features (Kg in 
 
 I wanted to focus on "less" complex models than neural networks as I am still learning and want to get the basics down. Eventually, I would like to explore neural networks to answer how to maximize compressive strength of concrete
 
-I initially explored ensemble methods as I though they'd pick up on relations better and that there no clear linear relationships. EDA showed that there was a lot of correlation among input vairables and this was a hint to explore dimensionality reduction (eg PCA).
+I initially explored ensemble methods as I though they'd pick up on relations better and that there no clear linear relationships. EDA showed that there was a lot of correlation among input vairables and this was a hint to explore dimensionality reduction (eg PCA). Mostly, trying to play with models and obtain a model that is at least 80% accurate.
 
 Once I discovered a model that worked, I began trying to optimize the model for better results.
-
-
 
 ## Results
 
